@@ -5,7 +5,7 @@ let c=9;
 //I really like it 
 
 console.log("The product of a and b is: " + (a * b));
-console.log("The product of a and b is: " + (a * c));
+console.log("The product of a and c is: " + (a * c));
 
 
 //>>>>>NEW THINGS
