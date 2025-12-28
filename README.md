@@ -12,4 +12,4 @@ Basic workflow:
 - Toggle input pins to simulate and watch outputs update live.
 - Use the **Analyzer** tool to build and export truth tables or simplify expressions.
 
-If you need a download, grab the latest Logisim-Evolution release (the actively maintained fork) from its GitHub releases page and run the jar with Java 11+.
+If you need a download, grab the latest Logisim-Evolution release (the actively maintained fork) from its GitHub releases page (https://github.com/logisim-evolution/logisim-evolution/releases). Run the jar with Java 11+.
